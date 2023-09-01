@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Rubik+Dirt&display=swap');
+
+main {
+
+    box-sizing: border-box;
+    overflow: auto;
+
+
+    .mainNews {
+        border-right: 1px solid gray;
+    }
+
+    .mainNew a{
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        text-align: justify;
+    }
+
+    .mainNew img{
+        width: 100%;
+    }
+
+    .news img{
+        width: 20%;
+    }
+
+    .news a{
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        text-align: justify;
+    }
+
+}
