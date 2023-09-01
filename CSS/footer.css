@@ -1,0 +1,43 @@
+footer{
+    padding-top: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background: gray;
+    color: white;
+    }
+
+  footer ul{
+    list-style: none;
+    font-size: 15px;
+  }
+
+  footer ul li{
+    display: inline-block;
+    margin-right: 10px;
+    
+  } 
+
+  .footer-navbar-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .copywrite{
+    padding-bottom: 10px;
+    font-size: 10px;
+  }
+
+  .social-media-icon-section{
+    position: absolute;
+    left: 90%;
+
+  }
+
+  .social-media-icon-section i{
+    color: white;
+    height: 10px;
+    padding-left: 5px;
+  }
